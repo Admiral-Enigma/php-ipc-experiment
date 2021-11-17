@@ -1,2 +1,2 @@
-gcc server.c -o deamon
+gcc deamon.c -o deamon
 ./deamon
