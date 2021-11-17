@@ -1,1 +1,1 @@
-two way IPC (inter-process communication) between php and c over a local unix socket. This can (in the future) be used to make a work around php's painfully slow exec() implementation by running shell commands directly from a C program
+Two way IPC (inter-process communication) between php and c over a local unix socket. This can (in the future) be used to make a work around php's painfully slow exec() implementation by running shell commands directly from a C program.
